@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "@walletconnect/web3-provider": "^1.7.8",
+    "ethers": "^5.6.6",
+    "web3modal": "^1.9.7"
+  }
+}
